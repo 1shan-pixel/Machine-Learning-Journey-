@@ -11,7 +11,7 @@ Goal : To minmize the value of w and b for a particular linear regression instan
 
 Remember, sometimes there's more than one minimum for a particular cost function. 
 
-Key terms : 
+### Key terms : 
 >> 1. Alpha : Learning Rate 
 >> 2. We need to do simulateneous update , while calculating the terms of w and b while talking about a cost function. 
 >> 3. Learning rate needs to be carefully chosen. 
